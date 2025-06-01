@@ -69,7 +69,7 @@ All endpoints are prefixed with `/api/employees`.
 
 - **PUT** `/api/employees/{employeeId}`
 - **Request Body:** (similar to add)
-- **Response:** 202 Accepted
+- **Response:** 200 OK
 
 ### 6. Delete Employee
 
